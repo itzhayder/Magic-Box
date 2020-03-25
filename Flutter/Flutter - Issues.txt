@@ -1,0 +1,5 @@
+##### Android license status unknown
+=> https://robbinespu.gitlab.io/blog/2020/03/03/flutter-issue-fixed-android-license-status-unknown-on-windows/
+
+##### Android Emulator (AVD) black screen
+=> Wipe data. Link -> https://stackoverflow.com/questions/10022580/android-emulator-shows-nothing-except-black-screen-and-adb-devices-shows-device
